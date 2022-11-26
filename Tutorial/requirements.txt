@@ -1,0 +1,4 @@
+aiohttp==3.8.1
+gidgethub==5.2.1
+homeassistant==2022.11.4
+voluptuous==0.13.1

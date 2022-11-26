@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@amstrad83"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "none",
+  "domain": "tutorial",
+  "iot_class": "calculated",
+  "name": "My first custom component",
+  "requirements": ["gidgethub[aiohttp]==4.1.1"],
+  "version": "1.0.0"
+}

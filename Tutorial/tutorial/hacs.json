@@ -1,0 +1,5 @@
+{
+  "name": "My first custom component",
+  "render_readme": true,
+  "iot_class": "calculated"
+}
